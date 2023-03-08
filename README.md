@@ -6,4 +6,4 @@ Here are some projects that I have been working on :
 
 [Energy Demand Forecasting](https://jesse-san.github.io/energy.github.io/)
 
-![does this work?](https://user-images.githubusercontent.com/67656632/223620480-44ee8434-f6f1-4f12-bec9-25e8567c6f3a.png)
+![does this work?](https://user-images.githubusercontent.com/67656632/223620480-44ee8434-f6f1-4f12-bec9-25e8567c6f3a.png = 250x250)
