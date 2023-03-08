@@ -5,4 +5,4 @@ Hello! I am a United States Veteran with 5 years of service in the Navy and 3 ye
 
 Here are some projects that I have been working on : 
 
-https://jesse-san.github.io/energy.github.io/
+[Energy Demand Forecasting](https://jesse-san.github.io/energy.github.io/)
